@@ -1,2 +1,2 @@
 # Trabalho_FSO
-Implementação do Trabalho Prática da Disciplina de FSO
+Implementação do Trabalho Prático do Grupo 1 da Disciplina de FSO (CIC0205)
